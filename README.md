@@ -4,9 +4,10 @@ Danblock India Pvt ltd wants to install over-head rail material handling system 
 
 The initial nodes were plotted using networkx library in python.
 
-node plotting.jpg is the graph of the initial problem and opt_graph.jpg shows the optimised graph.
+all nodes.jpg is the graph of the initial problem and opt_graph.jpg shows the optimised graph.
 
 node plotting.ipynb shows the code for node plotting
 
 data.xlsx shows the adjacency matrix of the graph
 
+Prims_MST.cpp contains the code for Prim's algorithm.
